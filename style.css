@@ -25,6 +25,16 @@ h1{
 font-size:36px;
 }
 
+.profile-photo img{
+width:160px;
+height:160px;
+border-radius:50%;
+object-fit:cover;
+margin-bottom:20px;
+border:3px solid #ddd;
+box-shadow:0 4px 10px rgba(0,0,0,0.15);
+}
+
 h2{
 border-bottom:2px solid #eee;
 padding-bottom:5px;
