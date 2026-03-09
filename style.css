@@ -63,6 +63,24 @@ color:#007acc;
 margin-bottom:20px;
 }
 
+.skills{
+margin-top:10px;
+}
+
+.skill-row{
+display:flex;
+margin-bottom:8px;
+}
+
+.skill-title{
+width:160px;
+font-weight:bold;
+}
+
+.skill-items{
+flex:1;
+}
+
 footer{
 text-align:center;
 margin-top:50px;
